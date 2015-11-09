@@ -1,0 +1,16 @@
+#Payoff Rubocop YAML
+#Version 1.0.0
+
+Metrics/LineLength:
+  Max: 99
+  Enabled: false
+
+AllCops:
+  DisplayCopNames: true
+  RunRailsCops: true
+
+Style/Documentation:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
